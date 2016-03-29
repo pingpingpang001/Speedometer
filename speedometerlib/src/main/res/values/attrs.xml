@@ -4,7 +4,7 @@
         <attr name="maxSpeed" format="float"></attr>
         <attr name="currentSpeed" format="float"></attr>
         <attr name="offColor" format="color"></attr>
-        <attr name="Speedometer_textSize" format="dimension"></attr>
+        <attr name="textSize" format="dimension"></attr>
         <attr name="textColor" format="color"></attr>
     </declare-styleable>
 
